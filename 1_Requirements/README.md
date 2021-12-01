@@ -1,4 +1,5 @@
 # Keyboard & Lcd Screen
+
 This is a 4x4 keypad that displays letters on the lcd screen based on which key has been pressed. Built using an atmega328p, a 4x4 keypad, a resistor and lcd screen. The code runs on C.
 # LCD
 An LCD is a display device that uses liquid material for its pixels. Like all display devices, LCDs contain many small dots, known as pixels. The pixels are illuminated by backlighting. When the backlighting is activated, it will project light at the pixels to create an image.
