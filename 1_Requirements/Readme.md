@@ -90,7 +90,3 @@ This system cannot be used for very high temperature.
 |LLR2|ADCand Potentiometer|HLR3|
 |LLR3|Thermo electric module|HLR4|
 |LLR4|LCD and LED, PWM|HLR5|
-
-
-
-
