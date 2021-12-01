@@ -1,6 +1,6 @@
 # M2_Embedded_Project_other
 
-# # M2_Embedded_Project_Heat_And_Control_System
+# # M2_Embedded_Project_Temperature_And_Control_System
 
 |**Folder**|**Description**|
 | :- | :- |
