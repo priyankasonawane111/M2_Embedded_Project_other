@@ -88,3 +88,9 @@ This system cannot be used for very high temperature.
 |LLR2|ADCand Potentiometer|HLR3|
 |LLR3|Thermo electric module|HLR4|
 |LLR4|LCD and LED, PWM|HLR5|
+
+
+### Conclusion
+
+We have designed a simple method of temperature control system automatically.
+Utilizing the concept cooling after certain temperature, Arduino-based hardwarealong with display was realized in hardwareThus from this project we learned about different sensors and is used for various purposes.
